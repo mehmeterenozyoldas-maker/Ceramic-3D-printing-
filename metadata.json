@@ -1,0 +1,7 @@
+{
+  "name": "CeramicFlow AI",
+  "description": "A generative design tool for 3D printed ceramics. Visualize organic vessel shapes in real-time and generate the Processing (Java) code needed to print them using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
